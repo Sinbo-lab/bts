@@ -1,6 +1,7 @@
-# My Web Project
+Behind the scene trial website
 
 A simple website project with HTML and CSS.
+**Live demo:** [View on GitHub Pages](https://sinbo-lab.github.io/bts/)
 
 ## Folder Structure
 
