@@ -1,0 +1,12 @@
+.nav-bar {
+    position: absolute;
+    top:0;
+    background-color: silver;
+}
+.nav-list{
+    list-style: none;
+}
+.nav-list a{
+    text-transform: none;
+
+}
